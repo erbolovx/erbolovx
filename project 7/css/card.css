@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.title{
+    font-size: 20px;
+    color: black;
+}
+
+.solution{
+    font-weight: bold;
+    color:white
+}
+
+.cardsImg img{
+    height: 200px;
+    width: 300px;
+}
+  
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.cardsName{
+    width: 350px;
+    height: 400px;
+    border:3px solid white;
+    padding: 10px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
